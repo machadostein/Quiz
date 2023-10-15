@@ -97,10 +97,9 @@ public class Quiz {
     }
 }
 /*
-  Foi adicionado varios comentario por que eu me perdia no codigo varias vezes. E pq como eu estava ajudando um pessoal eu usei esse codigo como explicação
+  
 
   PASSO A PASSO DO CODIGO QUIZ:
-OBSERVAÇÃO ESSE PASSO A PASSO FOI PEGO PELO CHATGPT. E EU TRANFORMEI ELE EM CODIGO NA LINGUAGEM JAVA. EU SÓ PRECISAVA DA LOGICA.
 
 Passo 1: Definição da classe Pergunta
    - Declara a classe `Pergunta` com os atributos `pergunta`, `opcoes`, e `resposta Correta`.
